@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 * 😄 Interested in learning: Other languages
 * :heart: Hobby: Badminton
 -->
+* 🔭 I’m currently working on CSCI3251 Project Milestone 2
+* 🌱 I’m currently learning CS
+* 😄 Interested in learning: Other languages
+* :heart: Hobby: Badminton
